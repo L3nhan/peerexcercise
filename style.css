@@ -1,0 +1,19 @@
+* {
+    background-color: #b3b3b3;
+}
+
+#view {
+    margin: auto;
+    padding: 10px;
+    width: 750px;
+    height: 500px;
+    border: 4px double #F60;
+}
+
+img {
+    width: 250px;
+}
+
+section{
+    text-align: center;
+}
